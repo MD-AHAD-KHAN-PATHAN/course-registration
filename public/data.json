@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/19Q0LCc/Rectangle-2-2.png",
+      "course_name": "Introduction to C Programming",
+      "description": "Learn the fundamentals of C programming, including variables, loops, functions, and memory management, to kickstart your coding journey.",
+      "price": 15000,
+      "credit": 1
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/WB7PhCk/Rectangle-2-3.png",
+      "course_name": "Introduction to Algorithms",
+      "description": "Explore algorithm design and analysis, problem-solving techniques, and data structures in this foundational course for computer science and programming.",
+      "price": 25000,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/4RRbnDb/Rectangle-2-4.png",
+      "course_name": "Introduction to C++ for DSA",
+      "description": "Discover C++ for Data Structures and Algorithms, mastering language features and solving complex problems efficiently in this foundational course.",
+      "price": 10000,
+      "credit": 10
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/QcYyw9T/Rectangle-3.png",
+      "course_name": "Basic Data Structures",
+      "description": "Discover fundamental data structures like arrays, linked lists, stacks, and queues, essential for efficient programming and problem-solving.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/HxrP7fq/Rectangle-2.png",
+      "course_name": "Introduction to OOP Python",
+      "description": "Master object-oriented programming principles and Python language features to build robust, modular software in this introductory course.",
+      "price": 15000,
+      "credit": 5
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/9gsMfTb/Rectangle-2-5.png",
+      "course_name": "Software Engineering",
+      "description": "Explore the principles and practices of software engineering, from requirements analysis to deployment, for developing reliable and scalable software systems.",
+      "price": 30000,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/hV2pc87/Rectangle-3-1.png",
+      "course_name": "AWS, Cloud Computing",
+      "description": "Learn cloud computing with AWS, covering services, infrastructure, and best practices for building, deploying, and managing applications in the cloud.",
+      "price": 25000,
+      "credit": 5
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/bKWQYPw/Rectangle-2-1.png",
+      "course_name": "Database (MySQL)",
+      "description": "Gain proficiency in MySQL, a robust relational database system, and master SQL for data management, retrieval, and application development.",
+      "price": 20000,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/wcRbB5B/Rectangle-2-6.png",
+      "course_name": "Problem-Solving Part",
+      "description": "Develop problem-solving skills by analyzing complex challenges, applying critical thinking, and implementing effective solutions for various domains.",
+      "price": 15000,
+      "credit": 2
+    }
+  ]  
